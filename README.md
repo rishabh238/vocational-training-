@@ -35,8 +35,6 @@ Instead of only solving small programming exercises, this repository focuses on 
 * Templates
 * Exception Handling
 * File Handling
-* Standard Template Library (STL)
-
 ---
 
 ## 🚀 Projects
